@@ -1,6 +1,4 @@
-## Predicting Kickstarter Project Success [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iUEsroGaEK6EC-K8kpGMGgWRzJBOkicH) [![heroku](https://img.shields.io/badge/%E2%86%91_Deployed_to-Heroku-7056bf.svg?style=plastic)](https://kickstarter-project-success-1.herokuapp.com/) ![badge](https://img.shields.io/github/repo-size/suvrashaw/Predicting-Kickstarter-Project-Success?style=plastic)
-
-![cover](images/cover.jpg)
+## Crowdfunding: Predicting Kickstarter Project Success [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iUEsroGaEK6EC-K8kpGMGgWRzJBOkicH) [![heroku](https://img.shields.io/badge/%E2%86%91_Deployed_to-Heroku-7056bf.svg?style=plastic)](https://kickstarter-project-success-1.herokuapp.com/) ![badge](https://img.shields.io/github/repo-size/suvrashaw/Predicting-Kickstarter-Project-Success?style=plastic)
 
 We predict whether a Kickstarter project proposal succeeds or fails to meet the fund-raising objective by only providing information from the project launch by means of 220, 000 project proposals scraped from Kickstarter. We evaluate the performance for these predictions of different machine learning models based on the project category, the fundraising objective and short product descriptions.
 
@@ -67,9 +65,3 @@ nltk
 ## Hosted on Streamlit: Check **[here](https://share.streamlit.io/designer7876/kickstarter-success-prediction/main/app.py)**.
 
 https://user-images.githubusercontent.com/56395895/131156078-aa227f90-8e13-4598-9c89-2e6e37b9804e.mp4
-
-## Team Members
-- [**Prit Mervana**](https://github.com/Prit005)
-- [**Aditya Iyengar**](https://github.com/Designer7876)
-- [**Aditya Kamat**](https://github.com/Webdesigner2710)
-- [**Suvra Shaw**](https://github.com/suvrashaw)
